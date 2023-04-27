@@ -10,4 +10,4 @@ integers.sort(function(a, b) {
 const secondLargest = integers[1];
 
 // Output the result
-console.log(`the second largest number is : ${secondLargest}`); // Output: 8
+console.log(`the second largest number is : ${secondLargest}`);
